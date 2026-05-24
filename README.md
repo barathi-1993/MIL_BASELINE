@@ -1,4 +1,4 @@
-# MIL_BASELINE <p align="center">
+# MIL_BASELINE <p align="center">  
   <a href='https://scholar.google.com/citations?user=5lNlpagAAAAJ&hl=en'>
   <img src='https://img.shields.io/badge/Arxiv-2404.19759-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
   <a href='https://github.com/lingxitong/MIL_BASELINE'>
